@@ -1,0 +1,7 @@
+Possible changes:
+
+Revise the project to work with a standard VM language so that it can be executed natively
+
+Add a syntax for the incorporation of the language into noisy image files
+- Jump(x,y)
+read during lexical analysis, could tell the lexor to continue reading the program at pixel x,y
