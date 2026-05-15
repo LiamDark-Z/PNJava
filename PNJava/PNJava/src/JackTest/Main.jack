@@ -1,0 +1,17 @@
+class Main{
+    field int a,b,c;
+    static Array Arr;
+    static String d;
+    function int main(){
+        var int z;
+        let z = 2;
+        let Arr = Array.new(5);
+        let Arr[2] = 2;
+        let d = "Hello World!";
+        do Output.printString(d);
+        if(z=Arr[2]){
+            let z = 100;
+        }
+        return z;
+    } 
+}
